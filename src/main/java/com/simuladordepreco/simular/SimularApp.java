@@ -47,7 +47,7 @@ public class SimularApp implements CommandLineRunner {
 
 				imprimirLinhasDeEspera();
 			}
-			TimeUnit.SECONDS.sleep(1);
+			TimeUnit.SECONDS.sleep(5);
 		}
 	}
 
